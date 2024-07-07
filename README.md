@@ -31,6 +31,10 @@ This application offers a complete e-commerce solution, enabling users to effort
 
 <img src="screenshots/Shop Home Screen.png" width=350 height=700>
 
+## Product Details Screen
+
+<img src="screenshots/Product Details Screen.png" width=350 height=700>
+
 ## Drawer Screen
 
 <img src="screenshots/Nav Drawer.png" width=350 height=700>
