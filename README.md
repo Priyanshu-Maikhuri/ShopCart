@@ -17,42 +17,42 @@ This application offers a complete e-commerce solution, enabling users to effort
 
 ## Splash Screen
 
-<img src="screenshots/Splash Screen.png" width=350 height=650>
+<img src="screenshots/Splash Screen.png" width=350 height=700>
 
 ## SignUp Screen
 
-<img src="screenshots/Signup Screen.png" width=350 height=650>
+<img src="screenshots/Signup Screen.png" width=350 height=700>
 
 ## Login Screen
 
-<img src="screenshots/Login Screen.png" width=350 height=650>
+<img src="screenshots/Login Screen.png" width=350 height=700>
 
 ## Shop Home Screen
 
-<img src="screenshots/Shop Home Screen.png" width=350 height=650>
+<img src="screenshots/Shop Home Screen.png" width=350 height=700>
 
 ## Drawer Screen
 
-<img src="screenshots/Nav Drawer.png" width=350 height=650>
+<img src="screenshots/Nav Drawer.png" width=350 height=700>
 
 ## Products List Screen
 
-<img src="screenshots/Products List.png" width=350 height=650>
+<img src="screenshots/Products List.png" width=350 height=700>
 
 ## Add/Edit Product Screen
 
-<img src="screenshots/Edit Product Screen.png" width=350 height=650>
+<img src="screenshots/Edit Product Screen.png" width=350 height=700>
 
 ## Cart Screen
 
-<img src="screenshots/Cart Screen.png" width=350 height=650>
+<img src="screenshots/Cart Screen.png" width=350 height=700>
 
 ## Payments Screen
 
-<img src="screenshots/Payment Gateway 1.png" width=350 height=650>
-<img src="screenshots/Payment Gateway 2.png" width=350 height=650>
-<img src="screenshots/Payment Gateway 3.png" width=350 height=650>
+<img src="screenshots/Payment Gateway 1.png" width=350 height=700>
+<img src="screenshots/Payment Gateway 2.png" width=350 height=700>
+<img src="screenshots/Payment Gateway 3.png" width=350 height=700>
 
 ## Orders Screen
 
-<img src="screenshots/Orders Screen.png" width=350 height=650>
+<img src="screenshots/Orders Screen.png" width=350 height=700>
