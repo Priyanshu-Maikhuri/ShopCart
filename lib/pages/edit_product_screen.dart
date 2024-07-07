@@ -102,7 +102,7 @@ class _EditProductScreenState extends State<EditProductScreen> {
                         child: const Text('Okay')),
                   ],
                 ));
-      } 
+      }
       // finally {
       //   setState(() {
       //     _isLoading = false;
@@ -111,8 +111,8 @@ class _EditProductScreenState extends State<EditProductScreen> {
       // }
     }
     setState(() {
-        _isLoading = false;
-      });
+      _isLoading = false;
+    });
     Navigator.of(context).pop();
   }
 
@@ -257,7 +257,8 @@ class _EditProductScreenState extends State<EditProductScreen> {
                                         !value.startsWith('https')) ||
                                     (!value.endsWith('.png') &&
                                         !value.endsWith('.jpg') &&
-                                        !value.endsWith('.jpeg'))) {
+                                        !value.endsWith('.jpeg') &&
+                                        !value.endsWith('.webp'))) {
                                   return;
                                 }
                                 setState(() {});
@@ -272,7 +273,8 @@ class _EditProductScreenState extends State<EditProductScreen> {
                                         !value.startsWith('https')) ||
                                     (!value.endsWith('.png') &&
                                         !value.endsWith('.jpg') &&
-                                        !value.endsWith('.jpeg'))) {
+                                        !value.endsWith('.jpeg') &&
+                                        !value.endsWith('.webp'))) {
                                   return 'Please enter a valid image URL';
                                 }
                                 return null;
